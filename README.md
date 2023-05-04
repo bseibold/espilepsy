@@ -7,7 +7,7 @@ A small ESP32 board to drive 2 LED strips, intended to be used with [WLED](https
 
 ## Status
 
-In development, not built yet
+In development
 
 ## Features and non-features
 
@@ -30,9 +30,6 @@ In development, not built yet
 ## Bill of materials
 
 (Work in progress)
-
- - ESP module: 
- - High-side switch:
 
 ### ESP32
 
@@ -64,6 +61,18 @@ One-gate versions of the 74xx125 will fit, but will require the pull-down resist
 Reichelt:
  - [M74VHC1GT50](https://www.reichelt.de/buffer-cmos-1-65--5-5-v-sot-23-5-m74vhc1gt50dtt1g-p219278.html)
 
+### Enclosure
+
+Reichelt:
+ - [4U32100603006](https://www.reichelt.de/industriegehaeuse-76-x-59-x-28-mm-ip54-schwarz-4u32100603006-p324273.html)
+
+### Screw Terminals
+
+AKL073 from Reichelt won't fit into the enclosure.
+
+Reichelt:
+ - [AKL 101-02](https://www.reichelt.de/anschlussklemme-2-pol-2-mm-rm-5-08-akl-101-02-p36605.html)
+ - [CTB0509-2](https://www.reichelt.de/loetbare-schraubklemme-2-pol-rm-5-08-mm-90--ctb0509-2-p292701.html)
 
 ## Similar projects
 
