@@ -4,10 +4,12 @@ ESPilepsy
 A small ESP32 board to drive 2 LED strips, intended to be used with [WLED](https://kno.wled.ge/)
 
 ![A rendered image of the PCB](espilepsy.png)
+![A photo of the assembled PCB](espilepsy-v1.jpg)
+
 
 ## Status
 
-In development
+Assembled, initial testing done
 
 ## Features and non-features
 
